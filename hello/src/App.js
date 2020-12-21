@@ -19,6 +19,7 @@ function App() {
         </p>
         <p>Result: {renderResult(2,2)}</p>
         <p>Result: {renderResult(2,2)}</p>
+        <p>Result: {renderResult(2,2)}</p>
         <LearnReact />
       </header>
     </div>
